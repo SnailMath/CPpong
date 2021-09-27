@@ -1,4 +1,8 @@
 # Compiled files
 *.o
 *.hhk
+*.bin
 *.elf
+# windows temp files
+*~
+.*~
