@@ -2,7 +2,7 @@
 
 #ifndef PC
 	APP_NAME("CPpong")
-	APP_DESCRIPTION("A simple pong game")
+	APP_DESCRIPTION("A simple pong game. Use '<-', '->', '1' and '3' to control, 5 to restart, EXE or Clear to quit.")
 	APP_AUTHOR("SnailMath (inspiration by InterChan)")
 	APP_VERSION("1.0.0")
 #endif
